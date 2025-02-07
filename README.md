@@ -11,8 +11,6 @@ This project is a book recommendation service that suggests books based on a use
 - [Usage](#usage)
 - [Data Source](#data-source)
 - [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 💫 Features
 
@@ -26,10 +24,6 @@ This project is a book recommendation service that suggests books based on a use
 
 To run the project locally, follow these steps:
 
-Clone the repository
-   ```
-   git clone https://github.com/weaviate/BookRecs.git
-   ```
 
 ### The Data Pipeline
 
@@ -115,8 +109,3 @@ The book data used for this project is sourced from the following Kaggle dataset
 ## 💰 Large Language Model (LLM) Costs with OpenAI
 
 BookRecs utilizes OpenAI or Ollama models. For OpenAI -- be advised that the usage costs for these models will be billed to the API access key you provide. Primarily, costs are incurred during data embedding and answer generation processes. The default vectorization engine for this project is `text-embedding-3-small`.
-
-## 💖 Open Source Contribution
-
-Your contributions are always welcome! Feel free to contribute ideas, feedback, or create issues and bug reports if you find any! Visit our [Weaviate Community Forum](https://forum.weaviate.io/) if you need any help!
-
