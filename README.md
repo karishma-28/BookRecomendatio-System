@@ -5,7 +5,7 @@
 
 This project is a book recommendation service that suggests books based on a user's inputted genre and book titles. It's built upon a database of 7000 books retrieved from Kaggle. Using Ada v2 as the large language model, vector embeddings were created with the Kaggle dataset to allow for quick vector search to find semantically similar books through natural language input. The frontend is built using Next.js and styled with TailwindCSS.
 
-![Project Screenshot](/BookRecs.gif)
+![Project Screenshot]([/BookRecs.gif](https://github.com/user-attachments/assets/f7748baa-0f70-4dda-80e6-3293bf23ce95))
 
 ## 📑 Table of Contents
 
